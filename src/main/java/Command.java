@@ -1,5 +1,5 @@
 public interface Command {
 
-	// TODO
+	void execute();
 
 }
